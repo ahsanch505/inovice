@@ -1,0 +1,7 @@
+{
+  "name": "inovice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
